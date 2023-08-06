@@ -14,5 +14,5 @@ export default function Worklist(props: propstype) {
         {props.summary}
       </div>
     </div>
-  );
+  )
 }

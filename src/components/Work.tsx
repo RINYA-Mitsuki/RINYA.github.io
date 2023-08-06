@@ -35,11 +35,11 @@ export default function Work() {
   return (
     <>
       {/*Worklist*/}
-      <div>
-        <div className='bg-gray-400' id="profile">
-          <div className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans ">
+      <div >
+        <div className='bg-gray-400'>
+          <div className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans">
             <div className="w-10/12 mx-auto">
-              <p className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
+              <p id="profile" className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
                 - Work -
               </p>
               <div className="mx-auto font-serif font-semibold justify-center">
@@ -73,11 +73,13 @@ export default function Work() {
       </div>
       {/*Contact*/}
       <div className='bg-gray-400' id="profile">
-        <div className="w-10/12 pt-20 pb-16 mx-auto bg-white text-gray-800 font-sans ">
+        <div id='contact' className="w-10/12 pt-20 pb-16 mx-auto bg-white text-gray-800 font-sans ">
           <div className="w-10/12 mx-auto">
             <p className='text-5xl font-bold p-10'>- Contact -</p>
-            <p className='text-center pb-10 text-2xl text-gray-800'>Mitsubosi Recordsやオーナーに対してのご質問やご依頼等は、メールアドレス「records@mitsuboshi.work」もしくは下部のフォームよりお問い合わせください。</p>
-            <iframe className='w-full' height="1124" src="https://docs.google.com/forms/d/e/1FAIpQLSdd7GMSXeVl-NdGqIaJNd3ocBHIpyT0YAj2wAuElEOiYC0pUw/viewform?embedded=true">読み込んでいます…</iframe>
+            <p className='text-center pb-10 text-2xl text-gray-800'>
+              Mitsubosi Recordsやオーナーに対してのご質問やご依頼等は、メールアドレス「records@mitsuboshi.work」もしくは下部のフォームよりお問い合わせください。
+            </p>
+            <iframe className='w-full' height="1148" src="https://docs.google.com/forms/d/e/1FAIpQLSdd7GMSXeVl-NdGqIaJNd3ocBHIpyT0YAj2wAuElEOiYC0pUw/viewform?embedded=true">読み込んでいます…</iframe>
           </div>
         </div>
       </div>

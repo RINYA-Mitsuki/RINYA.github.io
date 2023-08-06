@@ -6,9 +6,9 @@ export default function Document() {
       <Head>
         <meta name="description" content="Mitsuboshi Records OfficialPage" />
         <title>Mitsuboshi Records</title>
-        <link rel="icon" href="../../public/favicon.ico" />
-        <link rel="icon" href="../../public/favicon.svg" type="image/svg+xml" />
-        <link rel="apple-touch-icon" href="../../public/webclip.png" />
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/webclip.png" />
         {/*OGP*/}
         <meta property="og:site_name" content="Mitsuboshi Records" />
         {/*トップページはwebsite、それ以外はarticle*/}
