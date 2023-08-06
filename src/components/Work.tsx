@@ -39,7 +39,7 @@ export default function Work() {
         <div className='bg-gray-400'>
           <div className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans">
             <div className="w-10/12 mx-auto">
-              <p id="profile" className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
+              <p id="work" className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
                 - Work -
               </p>
               <div className="mx-auto font-serif font-semibold justify-center">
