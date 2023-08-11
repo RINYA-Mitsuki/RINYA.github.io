@@ -5,11 +5,11 @@ export default function Work() {
   const workList = [
     {
       date: '2019/09 Sep.',
-      summary: '拙作「Eeliaas」、音楽ゲームMuseDash収録'
+      summary: 'オリジナル楽曲「Eeliaas」、音楽ゲームMuseDash収録'
     },
     {
       date: '2020/11 Nov.',
-      summary: '拙作「Square Lake」、音楽ゲームMuseDash収録'
+      summary: 'オリジナル楽曲「Square Lake」、音楽ゲームMuseDash収録'
     },
     {
       date: '2021/08 Aug.',
@@ -37,9 +37,9 @@ export default function Work() {
       {/*Worklist*/}
       <div >
         <div className='bg-gray-400'>
-          <div className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans">
+          <div id="work" className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans">
             <div className="w-10/12 mx-auto">
-              <p id="work" className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
+              <p className='text-5xl font-bold p-10 mb-5 border-b-2 border-gray-500 border-solid'>
                 - Work -
               </p>
               <div className="mx-auto font-serif font-semibold justify-center">
