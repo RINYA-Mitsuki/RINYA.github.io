@@ -5,31 +5,38 @@ export default function Work() {
   const workList = [
     {
       date: '2019/09 Sep.',
-      summary: 'オリジナル楽曲「Eeliaas」、音楽ゲームMuseDash収録'
+      summary: 'オリジナル楽曲「Eeliaas」、音楽ゲームMuseDash収録',
+      url: 'https://twitter.com/MuseDashtheGame/status/1178251302859444225'
     },
     {
       date: '2020/11 Nov.',
-      summary: 'オリジナル楽曲「Square Lake」、音楽ゲームMuseDash収録'
+      summary: 'オリジナル楽曲「Square Lake」、音楽ゲームMuseDash収録',
+      url: 'https://twitter.com/MuseDashtheGame/status/1332248813998809089'
     },
     {
       date: '2021/08 Aug.',
-      summary: '株式会社HIKKY主催、VketMall Proto 会場BGM一部担当'
+      summary: '株式会社HIKKY主催、VketMall Proto 会場BGM一部担当',
+      url: 'https://mall.v-market.work/credit'
     },
     {
       date: '2022/06 Jun.',
-      summary: '株式会社ゆずプラス及び一般社団法人プレプラ 法人ロゴ制作'
+      summary: '株式会社ゆずプラス及び一般社団法人プレプラ 法人ロゴ制作',
+      url: 'https://twitter.com/yuzuplus_'
     },
     {
       date: '2022/12 Dec.',
-      summary: '株式会社HIKKY主催、Vket2022Winter 会場BGM一部担当'
+      summary: '株式会社HIKKY主催、Vket2022Winter 会場BGM一部担当',
+      url: 'https://winter2022.vket.com/credit'
     },
     {
       date: '2023/02 Feb.',
-      summary: '株式会社HIKKY主催、ComicVket3 会場プロップサブモデリング'
+      summary: '株式会社HIKKY主催、ComicVket3 会場プロップサブモデリング',
+      url: 'https://comic3.vket.com/credit'
     },
     {
       date: '2023/07 Jul.',
-      summary: '株式会社HIKKY主催、Vket2023Summer 企業ブースモデリング'
+      summary: '株式会社HIKKY主催、Vket2023Summer 企業ブースモデリング',
+      url: 'https://event.vket.com/2023Summer/credit'
     },
   ];
   return (
@@ -48,6 +55,7 @@ export default function Work() {
                     <Worklist
                       date={workItem.date}
                       summary={workItem.summary}
+                      url={workItem.url}
                     />
                   )
                 })}
