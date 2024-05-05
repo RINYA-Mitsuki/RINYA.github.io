@@ -15,7 +15,7 @@ export default function Work() {
     },
     {
       date: '2021/08 Aug.',
-      summary: '株式会社HIKKY主催、VketMall Proto 会場BGM一部担当',
+      summary: 'VirtualMarketMall Proto 会場BGM一部担当',
       url: 'https://mall.v-market.work/credit'
     },
     {
@@ -25,18 +25,23 @@ export default function Work() {
     },
     {
       date: '2022/12 Dec.',
-      summary: '株式会社HIKKY主催、Vket2022Winter 会場BGM一部担当',
+      summary: 'VirtualMarket2022Winter 会場BGM一部担当',
       url: 'https://winter2022.vket.com/credit'
     },
     {
       date: '2023/02 Feb.',
-      summary: '株式会社HIKKY主催、ComicVket3 会場プロップサブモデリング',
+      summary: 'ComicVket3 会場プロップサブモデリング',
       url: 'https://comic3.vket.com/credit'
     },
     {
       date: '2023/07 Jul.',
-      summary: '株式会社HIKKY主催、Vket2023Summer 企業ブースモデリング',
+      summary: 'VirtualMarket2023Summer 企業ブースモデリング',
       url: 'https://event.vket.com/2023Summer/credit'
+    },
+    {
+      date: '2023/12 Dec.',
+      summary: 'VirtualMarket2023Winter 企業ブースモデリング',
+      url: 'https://event.vket.com/2023Winter/credit'
     },
   ];
   return (

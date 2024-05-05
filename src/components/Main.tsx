@@ -28,7 +28,9 @@ export default function Main() {
       <div className='bg-gray-400' id="profile">
         <div className="w-10/12 pt-20 pb-32 mx-auto bg-white text-gray-800 font-sans ">
           <div className="w-10/12 mx-auto">
-            <p className='text-5xl font-bold p-10'>- Profile -</p>
+            <p className='text-5xl font-bold p-10'>
+              - Profile -
+            </p>
             <div className="z-0 relative flex justify-center">
               <img className="absolute -z-10 h-full bottom-0 right-0 overflow-hidden opacity-10" src="/rinya_logo.svg"/>
               <img className="w-64 h-64 rounded-full my-5" src="/avatar.jpg" />
