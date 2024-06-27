@@ -70,7 +70,7 @@ export default function Work() {
         </div>
       </div>
       {/*Portfolio*/}
-      <div className='bg-mygreen-bk font-sans'>
+      <div id="portfolio" className='bg-mygreen-bk font-sans'>
         <div className='w-10/12 mx-auto pt-6 pb-10'>
           <p className='text-3xl text-gray-100 font-bold py-10 pl-10'>
             - Portfolio -（未実装）
