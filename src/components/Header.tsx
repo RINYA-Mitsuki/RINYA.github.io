@@ -16,7 +16,7 @@ export default function Header() {
             <a className='tracking-widest' href='#work'>Work</a>
           </li>
           <li className='px-3 mx-2 border-gray-200 border-solid border-b border-opacity-0 transition-all duration-200 ease-out hover:duration-200 hover:border-opacity-100'>
-            <a className='tracking-widest' href='portfolio'>Portfolio</a>
+            <a className='tracking-widest' href='#portfolio'>Portfolio</a>
           </li>
           <li className='px-3 mx-2 border-gray-200 border-solid border-b border-opacity-0 transition-all duration-200 ease-out hover:duration-200 hover:border-opacity-100'>
             <a className='tracking-widest' href='#contact'>Contact</a>
