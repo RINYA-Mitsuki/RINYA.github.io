@@ -15,7 +15,7 @@ export default function Work() {
     },
     {
       date: '2021/08 Aug.',
-      summary: 'VirtualMarketMall Proto 会場BGM一部担当',
+      summary: 'VirtualMarketMall Proto 会場BGM制作',
       url: 'https://mall.v-market.work/credit'
     },
     {
@@ -25,7 +25,7 @@ export default function Work() {
     },
     {
       date: '2022/12 Dec.',
-      summary: 'VirtualMarket2022Winter 会場BGM一部担当',
+      summary: 'VirtualMarket2022Winter 会場BGM制作',
       url: 'https://winter2022.vket.com/credit'
     },
     {
@@ -42,6 +42,11 @@ export default function Work() {
       date: '2023/12 Dec.',
       summary: 'VirtualMarket2023Winter 企業ブースモデリング',
       url: 'https://event.vket.com/2023Winter/credit'
+    },
+    {
+      date: '2024/07 Jul.',
+      summary: 'VirtualMarket2024Summer 会場BGM制作',
+      url: 'https://event.vket.com/2024Summer/credit'
     },
   ];
   return (

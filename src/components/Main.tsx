@@ -41,9 +41,9 @@ export default function Main() {
                 <p>音楽やロゴデザイン、3Dモデリング等を独学で学び、作るなどしています。</p>
                 <p>フロントエンドを中心にコーディングも勉強中です。（当HPも習作の一つです）</p>
                 <p className="pb-8">映像制作も趣味程度に少しだけかじったことがあります。</p>
-                <p>Belongs to</p>
+                {/*<p>Belongs to</p>*/}
                 <div className="flex justify-between">
-                  <a href="https://starryrain.net/" target="_blank" rel="noreferrer noopener"><img className="h-14" src="/SR_logo.svg" /></a>
+                  {/*<a href="https://starryrain.net/" target="_blank" rel="noreferrer noopener"><img className="h-14" src="/SR_logo.svg" /></a>*/}
                   <div className="flex mt-1.5 mr-5">
                     <a href="https://twitter.com/RINYA_P" title="Twitter" className='m-2'>
                       <FaTwitter size={30} color={"1DA1F2"}/>
