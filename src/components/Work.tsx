@@ -48,6 +48,11 @@ export default function Work() {
       summary: 'VirtualMarket2024Summer 会場BGM制作',
       url: 'https://event.vket.com/2024Summer/credit'
     },
+    {
+      date: '2024/12 Dec',
+      summary: 'VirtualMarket2024Winter 会場BGM制作',
+      url: 'https://event.vket.com/2024Winter/credit'
+    },
   ];
   return (
     <>
