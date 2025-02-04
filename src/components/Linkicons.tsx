@@ -27,7 +27,7 @@ export default function Linkicons() {
         </a>
       </li>
       <li className='p-2'>
-        <a href="mailto:records&#64;mitsuboshi.work" target="_blank" rel="noopener noreferrer" title="Mail" className='inline-block'>
+        <a href="mailto:info&#64;mitsuboshi.studio" target="_blank" rel="noopener noreferrer" title="Mail" className='inline-block'>
           <TbMailFilled size={20} color={"#F2F2F2"}/>
         </a>
       </li>
