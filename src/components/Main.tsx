@@ -16,7 +16,7 @@ export default function Main() {
             </p>
           <div>
             <p className='inline-block backdrop-brightness-50 text-2xl px-8 py-0.5 pt-3'>
-              Mitsuboshi Recordsは、音や色、形、空間等の様々なアプローチ方法で
+            Mitsuboshi_Studioは、音や色、形、空間等の様々なアプローチ方法で
             </p>
           </div>
             <p className='inline-block backdrop-brightness-50 text-2xl px-8 py-0.5'>
@@ -64,11 +64,11 @@ export default function Main() {
           </div>
         </div>
       </div>
-      {/*What is Mitsuboshi Records?*/}
+      {/*What is Mitsuboshi_Studio?*/}
       <div className='bg-mygreen-bk font-sans'>
         <div className='w-10/12 mx-auto pt-6 pb-10'>
           <p className='text-3xl text-gray-100 font-bold pt-14 pl-10'>
-            - What is Mitsuboshi Records? -
+            - What is Mitsuboshi_Studio? -
           </p>
           <div className="p-10 text-xl text-gray-300">
             <p>りにゃがネット上で創作活動をするにあたって、個人サークルが欲しくなった時に適当に考えた名前です。</p>
