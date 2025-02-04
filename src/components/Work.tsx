@@ -100,7 +100,7 @@ export default function Work() {
           <div className="w-10/12 mx-auto">
             <p className='text-5xl font-bold p-10'>- Contact -</p>
             <p className='text-center pb-10 text-2xl text-gray-800'>
-              Mitsubosi Recordsやオーナーに対してのご質問やご依頼等は、メールアドレス「records@mitsuboshi.work」もしくは下部のフォームよりお問い合わせください。
+            Mitsuboshi_Studioやオーナーに対してのご質問やご依頼等は、メールアドレス「info@mitsuboshi.studio」もしくは下部のフォームよりお問い合わせください。
             </p>
             <iframe className='w-full' height="1148" src="https://docs.google.com/forms/d/e/1FAIpQLSdd7GMSXeVl-NdGqIaJNd3ocBHIpyT0YAj2wAuElEOiYC0pUw/viewform?embedded=true">読み込んでいます…</iframe>
           </div>
