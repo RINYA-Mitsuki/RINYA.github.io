@@ -8,7 +8,7 @@ export default function Footer() {
     <>
       <div className="w-full h-32 bg-mygreen-bk flex justify-between items-center">
         <a className="ml-10 inline-block" href="#top">
-          <img className="py-2 h-16" src="/logo.svg"/>
+          <img className="py-2 h-16" src="/Mitsuboshi_Studio_logo.svg"/>
         </a>
         <div className='flex text-gray-200'>
           <p className='px-1'>Copyright</p>

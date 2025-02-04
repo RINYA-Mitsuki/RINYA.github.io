@@ -6,7 +6,7 @@ export default function Header() {
     <>
       <div className="w-full top-left-0 bg-mygreen-bk z-10 fixed flex justify-between items-center drop-shadow-lg">
         <a className="ml-10 inline-block" href="#top">
-          <img className="py-2 h-16" src="/logo.svg"/>
+          <img className="py-2 h-16" src="/Mitsuboshi_Studio_logo.svg"/>
         </a>
         <ul className='text-gray-200 flex text-2xl'>
           <li className='px-3 mx-2 border-gray-200 border-solid border-b border-opacity-0 transition-all duration-200 ease-out hover:duration-200 hover:border-opacity-100'>
